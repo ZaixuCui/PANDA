@@ -1,5 +1,5 @@
 # PANDA
-PipelineforAnalyzingbraiNDiffusionimAges
+Pipeline for Analyzing braiN Diffusion imAges
 
 PANDA download: http://www.nitrc.org/projects/panda
 
