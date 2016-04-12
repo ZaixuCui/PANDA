@@ -12,3 +12,7 @@ The paper for PANDA:
     
 (2) Cui Z, Zhao C, Gong G. (2015): Parallel workflow tools to facilitate human brain MRI post-processing. Front Neurosci 9:171.
     http://journal.frontiersin.org/article/10.3389/fnins.2015.00171/full
+    
+Copyright (c) Zaixu Cui, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, 2016.
+Contact information: 
+zaixucui@gmail.com
