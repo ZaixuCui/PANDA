@@ -3,8 +3,6 @@ Pipeline for Analyzing braiN Diffusion imAges
 
 PANDA download: http://www.nitrc.org/projects/panda
 
-PANDA Virtualbox downlaod: http://pan.baidu.com/s/1ntrAU97
-
 The paper for PANDA: 
 
 (1) Cui Z, Zhong S, Xu P, He Y, Gong G. (2013): PANDA: a pipeline toolbox for analyzing brain diffusion images. Front Hum Neurosci 7:42.
